@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">🌱 On my journey to become a better developer every day.</h3>
 
+<img align="right" alt="coding" width="400" scr="https://chevalinfotech.org/img/fullstackdeveloper.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksharma0101&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksharma0101" /> </p>
 
 - 🌱 I’m currently learning **python programming language**
